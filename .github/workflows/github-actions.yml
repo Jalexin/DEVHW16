@@ -36,3 +36,5 @@ jobs:
           arguments: build
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
+      - name: Test with gradle
+        run: ./gradlew test
