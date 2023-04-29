@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-29T10:49:34" hostname="DESKTOP-DUCI15S" time="0.017">
-  <properties/>
-  <testcase name="testThatSumWorkCorrectFor0()" classname="SumCalculatorTest" time="0.014"/>
-  <testcase name="testThatSumWorkCorrectFor1()" classname="SumCalculatorTest" time="0.001"/>
-  <testcase name="testThatSumWorkCorrectFor3()" classname="SumCalculatorTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
